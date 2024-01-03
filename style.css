@@ -48,6 +48,10 @@ body{
     padding: 0 19px;
 }
 
+.attribution{
+    text-align: center;
+}
+
 /*RESPONSIVE DESIGN FOR SCREENS 350PX*/
 
 @media (max-width: 350px) {
@@ -55,7 +59,3 @@ body{
         margin: 50px auto;
     }
 }
-- White: hsl(0, 0%, 100%)
-- Light gray: hsl(212, 45%, 89%)
-- Grayish blue: hsl(220, 15%, 55%)
-- Dark blue: hsl(218, 44%, 22%)
